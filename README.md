@@ -99,7 +99,7 @@ The data used in this project is from the [GTEx (Genotype-Tissue Expression)](ht
 
 **Uday Kiran Gogineni** – Clustering & Modeling Lead  
 _M.S. in Bioinformatics_  
-[LinkedIn]([https://www.linkedin.com/in/udaykiran01])
+[LinkedIn](https://www.linkedin.com/in/udaykiran01)
 
 ---
 

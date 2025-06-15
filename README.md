@@ -98,7 +98,7 @@ The data used in this project is from the [GTEx (Genotype-Tissue Expression)](ht
 ## 👨‍💻 Author
 
 **Uday Kiran Gogineni** – Clustering & Modeling Lead  
-_M.S. in Bioinformatics | RNA-Seq Analysis | Machine Learning in Biology_  
+_M.S. in Bioinformatics_  
 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---

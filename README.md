@@ -35,54 +35,54 @@ The data used in this project is from the [GTEx (Genotype-Tissue Expression)](ht
 
 ## 📁 Project Structure
 
-- `src/` – Python source code (`project_full.py`)
-- `data/` – GTEx RNA-Seq and metadata files (or links)
-- `figures/` – PCA plots, t-SNE/UMAP visualizations, clustering results
-- `presentation/` – Final project presentation slides
+- `project_full.py` – Main Python script
+- `*.png` – Visualization outputs (PCA, clustering, t-SNE, UMAP)
 - `requirements.txt` – Dependencies to reproduce the analysis
+- `README.md` – Project documentation
+- `LICENSE` – Open-source license
 
 ---
 
 ## 📸 Sample Visualizations
 
 ### PCA Explained Variance  
-![PCA](figures/pca_variance.png)
+![PCA](pca_variance.png)
 
 ### Elbow & Silhouette Analysis  
-![K Selection](figures/k_selection.png)
+![K Selection](k_selection.png)
 
 ### K-Means Clustering  
 **2D:**  
-![KMeans 2D](figures/K-Means_2D.png)  
+![KMeans 2D](K-Means_2D.png)  
 **3D:**  
-![KMeans 3D](figures/K-Means_3D.png)
+![KMeans 3D](K-Means_3D.png)
 
 ### GMM Clustering  
 **2D:**  
-![GMM 2D](figures/GMM_2D.png)  
+![GMM 2D](GMM_2D.png)  
 **3D:**  
-![GMM 3D](figures/GMM_3D.png)
+![GMM 3D](GMM_3D.png)
 
 ### DBSCAN Clustering  
 **2D:**  
-![DBSCAN 2D](figures/DBSCAN_2D.png)  
+![DBSCAN 2D](DBSCAN_2D.png)  
 **3D:**  
-![DBSCAN 3D](figures/DBSCAN_3D.png)
+![DBSCAN 3D](DBSCAN_3D.png)
 
 ### True Label Visualizations  
 **UMAP (True Tissue):**  
-![UMAP True](figures/umap_true_tissue.png)  
+![UMAP True](umap_true_tissue.png)  
 **t-SNE (True Tissue):**  
-![tSNE True](figures/tsne_true_tissue.png)
+![tSNE True](tsne_true_tissue.png)
 
 ### KMeans Visualizations (t-SNE & UMAP)  
 **UMAP (KMeans):**  
-![UMAP KMeans](figures/umap_kmeans.png)  
+![UMAP KMeans](umap_kmeans.png)  
 **t-SNE (KMeans):**  
-![tSNE KMeans](figures/tsne_kmeans.png)
+![tSNE KMeans](tsne_kmeans.png)
 
 ### Confusion Matrix  
-![Confusion](figures/confusion_matrix.png)
+![Confusion](confusion_matrix.png)
 
 ---
 
